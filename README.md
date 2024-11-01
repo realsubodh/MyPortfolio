@@ -9,7 +9,7 @@
 
 Portfolio for developers is a simple and minimalistic website to showcase your skills and projects as a developer. The design is inspired by [Kevin Clark](https://kevinclark.ca). The website is completely Open Source, you can use it for whatever purpose you want.
 
-![HomeGif](https://github.com/manuarora700/simple-developer-portfolio-website/blob/main/demo-images/websitegif.gif)
+
 
 # Features
 
